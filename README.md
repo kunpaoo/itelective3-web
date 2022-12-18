@@ -1,7 +1,7 @@
-#### <p align="center"><img src="https://davaooriental.gov.ph/wp-content/uploads/2019/06/caraga.png" width="40" style="margin-bottom:-13px;margin-right:8px;"/> Local Government Unit of Caraga</p>
+#### <img src="https://davaooriental.gov.ph/wp-content/uploads/2019/06/caraga.png" width="40" style="margin-bottom:-13px;margin-right:8px;"/> Local Government Unit of Caraga
 
 
-# <p align="center">OrdSys</p>
+# OrdSys
 
 
 OrdSys is an order system that will manage orders and its processes between the merchant and the customer. This would include processes in the inventory, credits, customer maintenance, order tracking, and returns. It aims to provide a quick, easy, and efficient experience for both the merchant and the customer through providing an organized and accessible system that can be used for a long period of time.
